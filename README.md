@@ -1,5 +1,5 @@
 # WDM-Ex.NO-10-Sentimental-Analysis-on-Any-dataset-Using-Rapidminer
-**DATE:**<br>
+
 **AIM:**<br>
 To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer<br>
 **Description:**<br>
@@ -44,9 +44,10 @@ e. Click on the "Run" button to export the sentiment analysis results to a new E
 
 
 **Output:**<br>
+<img width="1056" height="987" alt="image" src="https://github.com/user-attachments/assets/a024f1d7-61ef-456e-97f2-ff392f87bfff" />
 
-<img width="1033" height="580" alt="image" src="https://github.com/user-attachments/assets/a551c8a2-f265-4dd8-b61d-d8c6a2020475" />
 
 
 
 **Result:**
+Sentimental Analysis on Twitter Dataset Using Rapidminer is implemented.
